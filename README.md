@@ -1,1 +1,2 @@
 # Multilingual-Toxic-Comment-Classification
+*This is a Natural Language Processing model powered by Machine Learning which uses the data from Kaggle's toxic comment classification challenge to provide probability of a conversation being offensive. Though it works the best for the English language, it can also provide insights for other languages written with English alphabets with significant accuracy.*
